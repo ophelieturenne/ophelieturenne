@@ -3,5 +3,5 @@
 <p><em>BSc (Hons) Computer science engineering from <a href="https://www.middlesex.mu/">Middlesex University Mauritius</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web development certification from <a href="https://www.lewagon.com/mauritius">Le Wagon Mauritus</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[Linkedin: Turenne Ophelie](https://www.linkedin.com/in/turenne-marie-stella-ophelie/)
-
+[Linkedin: Turenne Ophelie](https://www.linkedin.com/in/turenne-marie-stella-ophelie/)</br>
+[Have a look at my CV here ](https://ophelieturenne.github.io/ophelie-turenne-cv/)  <img src="https://media3.giphy.com/media/KbrAHtkbVHvE7KqGA5/giphy.gif?cid=ecf05e47bxs8lz6cptxq00142bjfdss9t3nxgfhjesr9nk87&rid=giphy.gif&ct=s" width="25">
