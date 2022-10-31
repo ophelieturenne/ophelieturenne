@@ -5,3 +5,7 @@
 
 [Linkedin: Turenne Ophelie](https://www.linkedin.com/in/turenne-marie-stella-ophelie/)</br>
 [Have a look at my CV here ](https://ophelieturenne.github.io/ophelie-turenne-cv/)  <img src="https://media3.giphy.com/media/KbrAHtkbVHvE7KqGA5/giphy.gif?cid=ecf05e47bxs8lz6cptxq00142bjfdss9t3nxgfhjesr9nk87&rid=giphy.gif&ct=s" width="25">
+
+
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ophelieturenne&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophelieturenne&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+
