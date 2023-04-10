@@ -27,4 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophelieturenne&count_private=true&theme=dracula">
+
 [![HitCount](http://hits.dwyl.com/ophelieturenne/ophelieturenne.svg)](http://hits.dwyl.com/ophelieturenne/ophelieturenne) ![ViewCount](https://views.whatilearened.today/views/github/ophelieturenne/ophelieturenne.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://ophelieturenne.github.io/ophelie-turenne-cv/)
