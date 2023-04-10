@@ -1,10 +1,11 @@
 <h2> Hi, I'm Ophelie Turenne !<img src="https://media4.giphy.com/media/Slt7eAfaLZJIJ8qMOO/giphy.gif?cid=ecf05e47mmt6mute6qyjj1h770dawtwzcofnrf2w7igi4ovm&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>BSc (Hons) Computer science engineering from <a href="https://www.middlesex.mu/">Middlesex University Mauritius</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web development certification from <a href="https://www.lewagon.com/mauritius">Le Wagon Mauritus</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>ASc (Hons) Computer science engineering from <a href="https://www.supinfo.com/">SUPINFO, l'école des experts métiers de l'informatique</a> <p><em>BSc (Hons) Computer science engineering from <a href="https://www.middlesex.mu/">Middlesex University Mauritius</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web development certification from <a href="https://www.lewagon.com/mauritius">Le Wagon Mauritus</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[Linkedin: Turenne Ophelie](https://www.linkedin.com/in/turenne-marie-stella-ophelie/)</br>
-[Have a look at my CV here ](https://ophelieturenne.github.io/ophelie-turenne-cv/)  <img src="https://media3.giphy.com/media/KbrAHtkbVHvE7KqGA5/giphy.gif?cid=ecf05e47bxs8lz6cptxq00142bjfdss9t3nxgfhjesr9nk87&rid=giphy.gif&ct=s" width="25">
+[Linkedin: Turenne Ophelie](https://www.linkedin.com/in/turenne-marie-stella-ophelie/)</br></br>
+[![Thanks!](https://img.shields.io/badge/Take%20a%20look%20at%20my%20CV-!-1EAEDB.svg)](https://ophelieturenne.github.io/ophelie-turenne-cv/)
+<img src="https://media3.giphy.com/media/KbrAHtkbVHvE7KqGA5/giphy.gif?cid=ecf05e47bxs8lz6cptxq00142bjfdss9t3nxgfhjesr9nk87&rid=giphy.gif&ct=s" width="25">
 
 **Languages I have used**
 
@@ -12,7 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
@@ -27,6 +27,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophelieturenne&count_private=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophelieturenne&count_private=true&theme=dracula"></br>
 
-[![HitCount](http://hits.dwyl.com/ophelieturenne/ophelieturenne.svg)](http://hits.dwyl.com/ophelieturenne/ophelieturenne) ![ViewCount](https://views.whatilearened.today/views/github/ophelieturenne/ophelieturenne.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://ophelieturenne.github.io/ophelie-turenne-cv/)
+[![HitCount](http://hits.dwyl.com/ophelieturenne/ophelieturenne.svg)](http://hits.dwyl.com/ophelieturenne/ophelieturenne) ![ViewCount](https://views.whatilearened.today/views/github/ophelieturenne/ophelieturenne.svg)
